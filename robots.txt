@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maisonmnd.com/academie/sitemap.xml
+Sitemap: https://maisonmnd.github.io/academie/sitemap.xml
